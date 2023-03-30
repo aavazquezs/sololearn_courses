@@ -1,1 +1,1 @@
-# sololearn_courses
+# Notes and codes for Sololearn's courses
